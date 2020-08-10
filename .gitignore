@@ -2,3 +2,4 @@
 datasets/*
 images/*
 .DS_Store
+.vscode/*
