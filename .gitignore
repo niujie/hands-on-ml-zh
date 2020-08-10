@@ -1,4 +1,4 @@
 *.png
-datasets/
-images/
+datasets/*
+images/*
 .DS_Store
