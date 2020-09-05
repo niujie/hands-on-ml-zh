@@ -4,3 +4,10 @@ images/*
 .DS_Store
 .vscode/*
 *.data
+*.h5
+*.ckpt
+checkpoint
+my_keras_weights*
+my_logs
+my_mnist_logs
+.ipynb_checkpoints
