@@ -11,3 +11,6 @@ my_keras_weights*
 my_logs
 my_mnist_logs
 .ipynb_checkpoints
+*.tfrecord
+*.tfrecords
+*.proto
