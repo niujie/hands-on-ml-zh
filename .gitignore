@@ -14,3 +14,5 @@ my_mnist_logs
 *.tfrecord
 *.tfrecords
 *.proto
+my_fashion*
+person*
