@@ -16,3 +16,5 @@ my_mnist_logs
 *.proto
 my_fashion*
 person*
+*.wav
+my_sketchrnn/*
