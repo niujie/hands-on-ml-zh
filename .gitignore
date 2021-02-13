@@ -18,3 +18,4 @@ my_fashion*
 person*
 *.wav
 my_sketchrnn/*
+my_tfhub_cache/*
